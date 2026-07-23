@@ -1,0 +1,2 @@
+4100390152735912|01|2027|749  # Redirect response '301 Moved Permanently' for url 'http://neoshopifyapi.up.railway.app/shopify/check
+4100390152735912|01|2027|749  # Redirect response '301 Moved Permanently' for url 'http://neoshopifyapi.up.railway.app/shopify/check
